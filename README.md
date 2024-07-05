@@ -40,7 +40,7 @@ Los usuarios principales del encriptador de texto serán cualquier persona con c
 1. Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/encriptador-texto.git
+git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 ```
 
 2. Abre el archivo `index.html` en tu navegador web.
