@@ -49,7 +49,13 @@ function encriptarTexto(texto) {
     palabras.forEach(palabra => {
         textoEncriptado += encriptarPalabra(palabra) + " ";
     });
-    return textoEncriptado.trim();
+    textoEncriptado = textoEncriptado.trim();
+    console.log(textoEncriptado);
+
+    // Establecer el texto encriptado como el valor del textarea
+    document.getElementById('output-text').value = textoEncriptado;
+
+    return textoEncriptado;
 }
 
 // Función para desencriptar una palabra capturada desde una caja de texto en un formulario HTML
@@ -59,8 +65,49 @@ function desencriptarTexto(texto) {
     palabras.forEach(palabra => {
         textoDesencriptado += desencriptarPalabra(palabra) + " ";
     });
-    return textoDesencriptado.trim();
+    textoDesencriptado = textoDesencriptado.trim();
+    console.log(textoDesencriptado);
+
+    // Establecer el texto desencriptado como el valor del textarea
+    document.getElementById('output-text').value = textoDesencriptado;
+
+    return textoDesencriptado;
 }
+
+// Función para encriptar un texto capturado desde una caja de texto en un formulario HTML
+document.addEventListener('DOMContentLoaded', function() {
+    const btnEncriptar = document.getElementById('encrypt-btn');
+    const btnDesencriptar = document.getElementById('decrypt-btn');
+    const textoInput = document.getElementById('input-text');
+    const textoOutput = document.getElementById('output-text');
+    const noMessage = document.getElementById('no-message');
+    const copyBtn = document.getElementById('copy-btn');
+
+    function updateOutput(text) {
+        textoOutput.value = text;
+        textoOutput.style.display = 'block';
+        noMessage.style.display = 'none';
+        copyBtn.style.display = 'block';
+    }
+
+    btnEncriptar.addEventListener('click', function() {
+        const encriptado = encriptarTexto(textoInput.value);
+        updateOutput(encriptado);
+    });
+
+    btnDesencriptar.addEventListener('click', function() {
+        const desencriptado = desencriptarTexto(textoInput.value);
+        updateOutput(desencriptado);
+    });
+
+    copyBtn.addEventListener('click', function() {
+        textoOutput.select();
+        document.execCommand('copy');
+    });
+});
+
+// Tus funciones existentes (encriptarPalabra, desencriptarPalabra, encriptarTexto, desencriptarTexto) se mantienen igual
+
 
 // Ejemplo de uso
 //let text = "gato";
