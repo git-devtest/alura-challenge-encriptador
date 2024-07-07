@@ -56,7 +56,8 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 
 Haz clic en las miniaturas para verlas en tamaño completo.
 
-[![Desktop 1](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop1%20-%20thumb.PNG)](URL-de-la-imagen-completa-1)
+[![Desktop 1](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop1%20-%20thumb.PNG)]((https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop1%20-%20thumb.PNG))
+
 [![Nombre de la captura de pantalla 2](URL-de-la-miniatura-2)](URL-de-la-imagen-completa-2)
 
 ## Contribuciones
