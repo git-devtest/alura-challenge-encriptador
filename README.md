@@ -1,8 +1,6 @@
 # alura-challenge-encriptador
 Challenge 1 del curso de Alura Latam y ONE (Oracle Next Education)
 
-Teniendo en cuenta las respuestas que proporcionaste a mis preguntas, aquí está el README.md actualizado en formato Markdown:
-
 # Encriptador de Texto
 
 El Encriptador de Texto es una aplicación web que permite encriptar y desencriptar texto utilizando JavaScript. Es un proyecto desarrollado como parte de un reto educativo y está diseñado para ser responsive, compatible con dispositivos móviles como smartphones y tablets.
@@ -19,9 +17,12 @@ El objetivo principal del encriptador de texto es recibir cadenas de texto y enc
 
 ## Tecnologías utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+| Tecnología | Ícono |
+|------------|-------|
+| HTML5      | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3       | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white) |
+
 
 ## Interfaz de usuario
 
@@ -50,6 +51,13 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 4. Haz clic en el botón correspondiente para encriptar o desencriptar el texto.
 
 5. El resultado se mostrará en el campo de texto debajo.
+
+## Capturas de pantalla
+
+Haz clic en las miniaturas para verlas en tamaño completo.
+
+[![Desktop 1](URL-de-la-miniatura-1)](URL-de-la-imagen-completa-1)
+[![Nombre de la captura de pantalla 2](URL-de-la-miniatura-2)](URL-de-la-imagen-completa-2)
 
 ## Contribuciones
 
