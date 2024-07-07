@@ -56,7 +56,20 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 
 Haz clic en las miniaturas para verlas en tamaño completo.
 
-[![Desktop 1](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop1%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop1.PNG)
+|  Thumbnail  | Versión |
+|-------------|---------|
+|[![Desktop 1](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop1%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop1.PNG)| Estado inicial del encriptador
+|[![Desktop 2](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop2%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop2.PNG)| Se encripta la palabra 'gato'
+|[![Desktop 3](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop3%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop3.PNG)| Se desencripta la palabra 'gaitober'
+|[![Desktop 4](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Desktop4%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Desktop4.PNG)| Se desencripta mensaje del challenge
+|              |Smartphone
+|              |
+|              |
+|              |
+|              |Tablet
+|              |
+|              |
+|              |
 
 [![Nombre de la captura de pantalla 2](URL-de-la-miniatura-2)](URL-de-la-imagen-completa-2)
 
