@@ -1,5 +1,6 @@
 # alura-challenge-encriptador
 Challenge 1 del curso de Alura Latam y ONE (Oracle Next Education)
+![ALURA-ONE](https://img.shields.io/badge/ALURA%20LATAM%20/%20Oracle%20Next%20Education-blue)
 
 # Encriptador de Texto
 
@@ -53,7 +54,12 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 5. El resultado se mostrará en el campo de texto debajo.
 
 ## Visualización
+Para visitar la aplicación, copia y pega el siguiente enlace en tu navegador:
 
+```plaintext
+https://git-devtest.github.io/alura-challenge-encriptador/
+```
+O [haz clic aquí](https://git-devtest.github.io/alura-challenge-encriptador/) para acceder directamente.
 
 ## Capturas de pantalla
 

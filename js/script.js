@@ -91,7 +91,16 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     btnEncriptar.addEventListener('click', function() {
-        const encriptado = encriptarTexto(textoInput.value);
+        let encriptado = "";
+        const texto = textoInput.value;
+        const esValido = /^[a-z\s]+$/g.test(texto); // Valida solo letras minúsculas y espacios
+        
+        if (esValido) {
+            encriptado = encriptarTexto(texto);
+        } else {
+            alert("El texto no debe contener mayúsculas, acentos ni caracteres especiales.");
+            location.reload();
+        }
         updateOutput(encriptado);
     });
 
