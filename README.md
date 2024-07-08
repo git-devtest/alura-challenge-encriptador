@@ -1,6 +1,5 @@
 # alura-challenge-encriptador
 Challenge 1 del curso de Alura Latam y ONE (Oracle Next Education)
-![ALURA-ONE](https://img.shields.io/badge/ALURA%20LATAM%20/%20Oracle%20Next%20Education-blue)
 
 # Encriptador de Texto
 
@@ -29,10 +28,6 @@ El objetivo principal del encriptador de texto es recibir cadenas de texto y enc
 
 El instructor proporcionó un boceto a través de la plataforma FIGMA para seguir con la parte front-end del proyecto. No se requieren funcionalidades adicionales más allá de la encriptación y desencriptación de texto.
 
-## Plazo de entrega
-
-El proyecto debe estar completado para el próximo 9 de julio.
-
 ## Usuarios objetivo
 
 Los usuarios principales del encriptador de texto serán cualquier persona con conocimientos básicos de envío de mensajes a través de internet.
@@ -52,6 +47,11 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 4. Haz clic en el botón correspondiente para encriptar o desencriptar el texto.
 
 5. El resultado se mostrará en el campo de texto debajo.
+
+6. Texto de prueba para desencriptar
+```plaintext
+fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!
+```
 
 ## Visualización
 Para visitar la aplicación, copia y pega el siguiente enlace en tu navegador:
