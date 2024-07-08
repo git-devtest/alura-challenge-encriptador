@@ -52,6 +52,9 @@ git clone https://github.com/git-devtest/alura-challenge-encriptador.git
 
 5. El resultado se mostrará en el campo de texto debajo.
 
+## Visualización
+
+
 ## Capturas de pantalla
 
 Haz clic en las miniaturas para verlas en tamaño completo.
@@ -71,7 +74,6 @@ Haz clic en las miniaturas para verlas en tamaño completo.
 |[![Tablet 3](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Tablet3%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Tablet3.PNG)| Tablet | Se desencripta la palabra 'gaitober'
 |[![Tablet 4](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/thumbs/Tablet4%20-%20thumb.PNG)](https://raw.githubusercontent.com/git-devtest/alura-challenge-encriptador/main/images/captures/Tablet4.PNG)| Tablet | Se desencripta mensaje del challenge
 
-[![Nombre de la captura de pantalla 2](URL-de-la-miniatura-2)](URL-de-la-imagen-completa-2)
 
 ## Contribuciones
 
